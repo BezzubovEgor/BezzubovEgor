@@ -14,7 +14,7 @@ I'm a Senior Software Engineer with 5 years practical experience in software des
 
 `Functional Programming`, `HTML`, `CSS`, `SCSS`, `SQL`, `NoSQL`, `MongoDB`, `Redux`, `RxJS`, `GIT`, `PWA`, `Rest API`, `GraphQL`, `AWS`, `Automated Testing`, `AWS`, `Bootstrap`, `Jest`, `Puppeteer` and others...
 
-#### Links
+#### Contact me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bezzubov.egor@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egor-bezzubov/)
