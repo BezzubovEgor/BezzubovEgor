@@ -4,7 +4,7 @@ I'm a Senior Software Engineer with 5 years practical experience in software des
 
 #### Langs
 
-`JavaScript`, `TypeScript`, `ReasonML`, `Java`, `c#`, `Python`
+`ES6+`, `JavaScript`, `TypeScript`, `ReasonML`, `Java`, `c#`, `Python`
 
 #### Frameworks & Libs
 
@@ -12,7 +12,7 @@ I'm a Senior Software Engineer with 5 years practical experience in software des
 
 #### Other skills
 
-`HTML`, `CSS`, `SCSS`, `SQL`, `NoSQL`, `MongoDB`, `Redux`, `RxJS`, `GIT`, `PWA`, `Rest API`, `GraphQL`, `AWS`, `Automated Testing`, `AWS`, `Bootstrap`, `Jest`, `Puppeteer` and others...
+`Functional Programming`, `HTML`, `CSS`, `SCSS`, `SQL`, `NoSQL`, `MongoDB`, `Redux`, `RxJS`, `GIT`, `PWA`, `Rest API`, `GraphQL`, `AWS`, `Automated Testing`, `AWS`, `Bootstrap`, `Jest`, `Puppeteer` and others...
 
 #### Links
 
