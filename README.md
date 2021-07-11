@@ -1,6 +1,6 @@
 ### Hi, my name is Yahor Bezzubau 👋
 
-I'm a Senior Software Engineer with 5 years practical experience in software design and development, experienced in JavaScript, Java and other langs. Has experience in the design and development of large distributed and micro-service systems. Good knowledge of most common technologies for these platforms (including various libraries and frameworks, both for server-side and client-side development: React.js, Vue.js, Angualr 2+, AngularJs, Node.js, Express.js, Loopback, Spring Boot, JPA, Hibernate and other). Genuine professional and personal interest to modern trends and technologies in data processing and mobile development, modern web technologies and so on. 
+I'm a Senior Software Engineer with 6 years practical experience in software design and development, experienced in JavaScript, Java and other langs. Has experience in the design and development of large distributed and micro-service systems. Good knowledge of most common technologies for these platforms (including various libraries and frameworks, both for server-side and client-side development: React.js, Vue.js, Angualr 2+, AngularJs, Node.js, Express.js, Loopback, Spring Boot, JPA, Hibernate and other). Genuine professional and personal interest to modern trends and technologies in data processing and mobile development, modern web technologies and so on. 
 
 #### Langs
 
