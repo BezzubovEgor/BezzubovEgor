@@ -1,52 +1,54 @@
-### Hi, my name is Yahor Bezzubau 👋
+<h1 align="center">Hi 👋, I'm Yahor Bezzubau</h1>
+<h3 align="center">Lead Software Engineer @ JetBrains | Building AI Coding Agents</h3>
 
-I'm a Senior Software Engineer with 7+ years practical experience in software design and development, experienced in JavaScript, Java and other langs. Has experience in the design and development of large distributed and micro-service systems. Good knowledge of most common technologies for these platforms (including various libraries and frameworks, both for server-side and client-side development: React.js, Vue.js, Angualr 2+, AngularJs, Node.js, Express.js, Loopback, Spring Boot, JPA, Hibernate and other). Genuine professional and personal interest to modern trends and technologies in data processing and mobile development, modern web technologies and so on. 
+<p align="center">
+  <a href="https://github.com/BezzubovEgor">
+    <img src="https://komarev.com/ghpvc/?username=BezzubovEgor&style=flat-square&color=blue" alt="Profile views"/>
+  </a>
+</p>
 
-#### Langs
+<p align="center">
+  <a href="https://www.linkedin.com/in/egor-bezzubov/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bezzubov.egor@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/ybezzubau"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
+</p>
 
-`ES6+`, `JavaScript`, `TypeScript`, `ReasonML`, `Java`, `c#`, `Python`
+---
 
-#### Frameworks & Libs
+<div align="center">
+  <a href="https://github.com/BezzubovEgor">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=TypeScript+%7C+React+%7C+Node.js;Java+%7C+Spring+%7C+AWS;Microservices+%7C+Platform+Engineering;AI+Coding+Agents+%7C+Developer+Experience" alt="Typing SVG" />
+  </a>
+</div>
 
-`React`, `ReactNative`, `Angular`, `Vue`, `Node.js`, `Express.js`, `Next.js`, `Nest.js`, `Loopback`, `Spring`, `.NET`  and others...
+---
 
-#### Other skills
+### 🚀 What I Do
 
-`Functional Programming`, `HTML`, `CSS`, `SCSS`, `SQL`, `NoSQL`, `MongoDB`, `Redux`, `RxJS`, `GIT`, `PWA`, `Rest API`, `GraphQL`, `AWS`, `Automated Testing`, `AWS`, `Bootstrap`, `Jest`, `Puppeteer` and others...
+- 🔭 Currently working on **AI Coding Agents** at JetBrains
+- 🏗️ Previously architected **Miro Platform SDK** — 2x integrations growth
+- 🌱 Passionate about **Developer Experience** and **Platform Engineering**
+- 💬 Ask me about **TypeScript, React, Node.js, Microservices, AWS**
 
-#### Contact me
+---
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bezzubov.egor@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egor-bezzubov/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ybezzubau)
-[![Npm 1](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~yahor_bezzubau)
-[![Npm 2](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~bezzubov_egor)
+### 🛠️ Languages & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,vue,nodejs,express,nestjs,java,spring,python,docker,aws,postgres,mongodb,redis,git,githubactions&perline=9" />
+</p>
 
+---
 
-<!--
-**BezzubovEgor/BezzubovEgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Stats
 
-I'm a Senior Software Engineer with more than 5 years experience.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BezzubovEgor&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BezzubovEgor&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="languages" height="165"/>
+</p>
 
-🏢 I'm currently working at Randstad Netherlands
-🔭 I’m currently working on web systems 
-.php, .js, .html, .css, .svg, .psd, .ai
-🌍 I'm mostly active within the Laravel Community
-💅 Designed: @pestphp, NorthMeetsSouth.audio, ThenPing.me, HappydDev.fm, etc…
-🌱 Learning all about Open Source
-💬 Ping me about design, branding, laravel, development, design thinking
-📫 Reach me: twitter.com/caneco
-⚡️ Fun fact: I'm a huge fan of Harry Potter
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" />
+</p>
