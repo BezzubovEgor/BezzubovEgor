@@ -1,52 +1,143 @@
-### Hi, my name is Yahor Bezzubau 👋
+<div align="center">
 
-I'm a Senior Software Engineer with 7+ years practical experience in software design and development, experienced in JavaScript, Java and other langs. Has experience in the design and development of large distributed and micro-service systems. Good knowledge of most common technologies for these platforms (including various libraries and frameworks, both for server-side and client-side development: React.js, Vue.js, Angualr 2+, AngularJs, Node.js, Express.js, Loopback, Spring Boot, JPA, Hibernate and other). Genuine professional and personal interest to modern trends and technologies in data processing and mobile development, modern web technologies and so on. 
+# ⚔️ YAHOR BEZZUBAU ⚔️
+### 🎮 Lead Software Engineer @ JetBrains
 
-#### Langs
+<img src="https://img.shields.io/badge/LEVEL-42-brightgreen?style=for-the-badge&labelColor=1a1a2e&color=gold" alt="Level"/>
 
-`ES6+`, `JavaScript`, `TypeScript`, `ReasonML`, `Java`, `c#`, `Python`
+**9+ Years of Active Questing** • **Platform-First Mindset**
 
-#### Frameworks & Libs
+---
 
-`React`, `ReactNative`, `Angular`, `Vue`, `Node.js`, `Express.js`, `Next.js`, `Nest.js`, `Loopback`, `Spring`, `.NET`  and others...
+</div>
 
-#### Other skills
+## 📊 CHARACTER STATS
 
-`Functional Programming`, `HTML`, `CSS`, `SCSS`, `SQL`, `NoSQL`, `MongoDB`, `Redux`, `RxJS`, `GIT`, `PWA`, `Rest API`, `GraphQL`, `AWS`, `Automated Testing`, `AWS`, `Bootstrap`, `Jest`, `Puppeteer` and others...
+| Stat | Value | Bar |
+|------|-------|-----|
+| **STR** (Architecture) | 95 | `████████████████████░░░░░` |
+| **INT** (Problem Solving) | 92 | `███████████████████░░░░░░░` |
+| **DEX** (Tech Flexibility) | 88 | `██████████████████░░░░░░░░` |
+| **VIT** (Endurance) | 90 | `███████████████████░░░░░░░` |
+| **LCK** (Bug Free Code) | 42 | `████████░░░░░░░░░░░░░░░░░░` |
 
-#### Contact me
+---
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bezzubov.egor@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egor-bezzubov/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ybezzubau)
-[![Npm 1](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~yahor_bezzubau)
-[![Npm 2](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~bezzubov_egor)
+## 🛠️ SKILL TREE
 
+### Frontend Arts
+| Skill | Level | XP Bar |
+|-------|-------|--------|
+| ⚛️ React | MAX | `██████████████████████████` |
+| 🔷 TypeScript | MAX | `██████████████████████████` |
+| 🟢 Node.js | MAX | `██████████████████████████` |
+| 🦕 Deno | Lvl 85 | `██████████████████████░░░░` |
+| 💎 SolidJS | Lvl 78 | `███████████████████░░░░░░░` |
+| 🅰️ Angular | Lvl 90 | `██████████████████████░░░░` |
+| 💚 Vue | Lvl 82 | `█████████████████████░░░░░` |
 
+### Backend Mastery
+| Skill | Level | XP Bar |
+|-------|-------|--------|
+| 🐱 NestJS | Lvl 88 | `██████████████████████░░░░` |
+| ☕ Kotlin | Lvl 80 | `███████████████████░░░░░░░` |
+| 🍃 Spring | Lvl 85 | `█████████████████████░░░░░` |
 
-<!--
-**BezzubovEgor/BezzubovEgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Platform
+| Skill | Level | XP Bar |
+|-------|-------|--------|
+| 🤖 LLMs | Lvl 90 | `██████████████████████░░░░` |
+| 🧠 AI Agents | Lvl 92 | `███████████████████████░░░` |
+| 🏗️ Platform Eng. | MAX | `██████████████████████████` |
+| 🌐 Microservices | MAX | `██████████████████████████` |
 
-I'm a Senior Software Engineer with more than 5 years experience.
+---
 
-🏢 I'm currently working at Randstad Netherlands
-🔭 I’m currently working on web systems 
-.php, .js, .html, .css, .svg, .psd, .ai
-🌍 I'm mostly active within the Laravel Community
-💅 Designed: @pestphp, NorthMeetsSouth.audio, ThenPing.me, HappydDev.fm, etc…
-🌱 Learning all about Open Source
-💬 Ping me about design, branding, laravel, development, design thinking
-📫 Reach me: twitter.com/caneco
-⚡️ Fun fact: I'm a huge fan of Harry Potter
+## 🏆 ACHIEVEMENTS UNLOCKED
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Badge | Achievement | Description |
+|:-----:|-------------|-------------|
+| 🏅 | **Platform Architect** | Built Miro SDK enabling 2x integration growth |
+| ⭐ | **Time Lord** | Reduced feature development by 50% |
+| 🎖️ | **Distributed Master** | 7+ years microservices & event-driven systems |
+| 💎 | **Full Stack Legend** | Mastered frontend + backend + cloud |
+| 🤖 | **AI Pioneer** | Building AI coding agents at JetBrains |
+
+</div>
+
+---
+
+## 🎯 CURRENT QUEST
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  📍 PRIMARY MISSION                                          │
+│                                                              │
+│  Building AI Coding Agents & Platform/Framework              │
+│  for AI-generated Applications at JetBrains                  │
+│                                                              │
+│  Progress: ████████████████░░░░░░░░ 67%                     │
+│                                                              │
+│  Reward: Shape the future of software development            │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🎒 INVENTORY
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1a2e)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a2e)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a2e)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=1a1a2e)
+
+</div>
+
+---
+
+## 📜 QUEST LOG (Experience)
+
+| Organization | Role | Duration | XP Gained |
+|--------------|------|----------|-----------|
+| 🏢 JetBrains | Lead Software Engineer | 202X - Present | +15,000 XP |
+| 🎨 Miro | Platform SDK Lead | Previous | +12,000 XP |
+| 🌐 Various | Full Stack Engineer | 2016+ | +50,000 XP |
+
+---
+
+## 📡 PARTY INVITATIONS (Contact)
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/SEND_MESSAGE-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:bezzubov.egor@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/VIEW_PROFILE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/egor-bezzubov/)
+[![Telegram](https://img.shields.io/badge/CHAT_NOW-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a2e)](https://t.me/ybezzubau)
+
+</div>
+
+---
+
+## 📈 LEADERBOARD STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BezzubovEgor&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=gold&icon_color=gold&text_color=white" alt="Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BezzubovEgor&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=gold&text_color=white" alt="Languages" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎮 "The best code is the code that writes itself"
+
+*Player since 2016 • Netherlands, Randstad*
+
+</div>
